@@ -1,0 +1,61 @@
+/* Mozaam Zahid 243 S#f */
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.form{
+    border: 1px solid rgb(86, 81, 81);
+    padding: 2% 2%;
+    margin: 10% 20%;
+    background-color: rgb(114, 122, 111);
+}
+.name{
+    display: flex;
+    justify-content:flex-start;
+    align-content: space-between;
+}
+
+.name-cont{
+    padding-right: 2%;
+}
+
+.birthday{
+    display: flex;
+    justify-content:flex-start;
+    align-content: space-between;
+    padding-bottom: 9%;
+}
+
+.birth{
+    display: flex;
+}
+
+.date1{
+    padding-right: 5%;
+}
+
+.gender{
+    padding-left: 10%;
+}
+
+.city-province{
+    display: flex;
+    padding-top: 5%;
+    justify-content:space-between;
+    padding-right: 4%;
+}
+
+.email-number{
+    display: flex;
+    margin-top: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+
+.margin{
+    margin-top: 5%;
+}
